@@ -19,8 +19,6 @@ Além disso, o projeto proporciona uma experiência prática e interativa, intro
 > Linkedin
 ```
 https://www.linkedin.com/in/pedro-seraggi-5b7491163/
-
-
 ```
 > Githubs
 ```
