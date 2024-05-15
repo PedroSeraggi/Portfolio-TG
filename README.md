@@ -4,7 +4,7 @@
 <p align="center">
 <img src ="https://github.com/PedroSeraggi/Portfolio-TG/assets/102552390/ae95609e-c4a9-40f3-8716-518cd7fe7764" width="250" height="300" align-center>
 
-Meu nome é Pedro Seraggi, tenho 19 anos e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
+Meu nome é Pedro Seraggi, tenho 19 anos e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal .Cursei meu ensino médio na ETEC Professora Ilza Nascimento Pintus onde me formei como técnica em Desenvolvimento de Sistemas e desde então tive vontade de seguir carreira, fazendo eu ir atrás de entrar na Fatec.
 
 Este portfólio apresenta projetos realizados durante o programa de Aprendizado por Projeto Integrador (API) da faculdade. O API é um projeto proposto pela instituição no qual os alunos se conectam a empresas reais para fornecer soluções para problemas enfrentados por elas.
 
@@ -229,17 +229,17 @@ Atuei na função de Desenvolvedor novamente, onde programei a parte (Front-end 
 
 ### Hard Skills
 
- - HTML e CSS;
- - Pacote Office;
- - Gestão de Código;
- - Git;
- - Desenvolvimento Front-end;
- - Desenvolvimento Back-end;
- - React.js
- - Python;
- - JavaScript;
- - Java
- - MYSQL.
+ - HTML e CSS; (Faço com autonomia)
+ - Pacote Office; (Faço com autonomia)
+ - Gestão de Código; (Faço com autonomia)
+ - Git; (Faço com autonomia)
+ - Desenvolvimento Front-end; (Faço com autonomia)
+ - Desenvolvimento Back-end; (Preciso de colaboração)
+ - React.js (Faço com autonomia)
+ - Python; (Faço com autonomia)
+ - JavaScript; (Faço com autonomia)
+ - Java (Faço com autonomia)
+ - MYSQL. (Faço com autonomia)
  
 
 ### Soft Skills
