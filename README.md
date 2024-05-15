@@ -1,7 +1,8 @@
 # Pedro Fernandes Seraggi
 
 ## Sobre mim
-
+<p align="center">
+<!-- <img src ="https://github.com/PedroSeraggi/" width="250" height="300" align-center> -->
 Meu nome é Pedro Seraggi, tenho 19 anos e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
 
 Este portfólio apresenta projetos realizados durante o programa de Aprendizado por Projeto Integrador (API) da faculdade. O API é um projeto proposto pela instituição no qual os alunos se conectam a empresas reais para fornecer soluções para problemas enfrentados por elas.
@@ -26,67 +27,44 @@ https://github.com/PedroSeraggi
 ```
 
 
+## Meus Projetos
 
-# 2023 - 1 
+## Em 2022-1
+### Parceiro Acadêmico
 
-> Empresa Parceira :
- - FATEC SÃO JOSÉ DOS CAMPOS - PROF. JASSEN VIDAL.
+FATEC - Professor Jessen Vidal
+Professor Jessen Vidal A Faculdade de Tecnologia de São José dos Campos - Professor Jessen Vidal é um instituição de ensino superior pública e pertece ao Centro Estadual de Educação Tecnológica Paula Souza do Estado de São Paulo. Criada em 2006, a FATEC São José dos Campos, oferece a formação de técnologos em Análise e Desenvolvimento de Sistemas, Banco de Dados, Desenvolvimento Software Multiplataforma, Gestão e Produção Industrial, Gestão Empresarial, Logística, Manufatura Avançada, Manutenção de Aeronaves e Projeto de Estruturas Aeronáuticas.
 
+### Projeto
 
- A Faculdade de Tecnologia Prof. Jessen Vidal (FATECSJC) de São José dos Campos, faz parte de um seleto e importante grupo de instituições brasileiras de ensino superior de tecnologia do estado de São Paulo, pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS), a instituição que possui excelência em seus cursos de graduação tem como objetivo formar profissionais nas áreas de atuação esecolhida de forma mais específica.
+No primeiro semestre, criamos um projeto chamado "DispVag", que consistia no desenvolvimento de um Sistema Web para automatizar o processo de catalogar vagas com ênfase na área de TI, no qual configuramos métricas necessárias para cada vaga.
 
- No primeiro semestre a FATEC Prof. Jessen Vidal se responsabilizou por introduzir aos novos alunos o modelo de avaliação e aprendizado denominado API, onde eles seriam a empresa parceira a fornecer o desafio a ser cumprido ao decorrer do semestre para que fôssemos familiarizados e pudéssemos trabalhar com empresas reais ao decorrer dos semestres que viriam.
+### Problema
+A problemática dada por nosso cliente, era a necessidade de abrigar vagas de emprego onde mostrasse suas principais informações das vagas, como localização, benefícios e conhecimentos precisos para conquistar o emprego.
 
- Este projeto pioneiro e idealizado pela própria instituição visa a finalidade de avaliar seus alunos por meio de um trabalho semestral, que aborda problemas e soluções do mercado atual na área de especialização.
+### Solução
+Como solução, criamos um site de fácil compreensão, onde armazenávamos vagas disponíveis, seus benefícios, informações e localizações, implantamos gráficos e, caso o houvesse dúvidas, uma seção para perguntas e dúvidas frequentes. 
 
-# Problema:
-
- O problema proposto era um sistema web para facilitar o processo de catalogar vagas de diversas profissões com ênfase na área de TI, visando a facilidade do usuário em achar a vaga de seu interesse.
- Configurando métricas em pontos como de conhecimentos, habilidades e competências visualmente o sistema deveria ter informações estratégicas sendo postas em gráficos, com maior foco na facilidade de usabilidade do cliente e seus usuários, que neste projeto em sua maioria seriam pessoas de qualquer idade e qualquer tipo de formação em busca de um emprego.
-
- O projeto conta com toda uma documentação de desenvolvimento inserida no GitHub apresentando todos os processos necessários para a fidelização do pedido do cliente.
-
- Os requisitos impostos pelo o cliente para a aplicação eram:
-- Linguagem Python;
-- Linguagem HTML e CSS;
-- Uso do framework Flask (Python);
-- Apresentação via GitHub;
-- Ter no mínimo 5 páginas (Página principal do projeto, Vagas de Empregos, Cursos e Certificações, Métricas (conhecimentos necessários, habilidades e requisitos) e Localização das vagas e cursos);
-- Apresentação presencial do projeto.
-
-# Solução: 
-
-<img src="https://github.com/TechForce-ADS/imagens/blob/main/logo%20dispvag.jpeg" width="200" height="200">
-
-- Link do projeto: 
-```
-https://github.com/TechForce-ADS/DispVag
-```
-
- A colaboração entre grupo de desenvolvimento e cliente foi essencial para estabelecermos a criação do site que fosse capaz de segmentar vagas específicas da área de TI das demais. Este projeto foi batizado como DISPVAG (acróstico de VAGA DISPONÍVEL invertendo as palavras e usando as primeiras letras, "DISPonível VAGa") e foi apresentado como uma solução simples, porém eficaz e de fácil usabilidade para os usuários pelos alunos recém-ingressos na FATEC de São José dos Campos no primeiro semestre de 2021.
-
- O DISPVAG foi projetado para atender às necessidades crescentes do mercado de trabalho, proporcionando aos candidatos uma experiência de busca de emprego mais fácil, personalizada e eficiente, e para atingir seu objetivo foram fornecidos recursos de filtragem avançados, onde os usuários podem facilmente encontrar as vagas que correspondem às suas habilidades e interesses com um sistema que foi desenvolvido com uma interface intuitíva e amigável, pensando na melhor experiência pro usuário.
-
- Ao seu lançamento, DISPVAG recebeu um feedback positivo tanto de empresas que vieram a feira técnologica prestigiar e conhecer os projetos desenvolvidos pelos alunos no semestre quanto por colegas de sala e professores, findando seu objetivo sendo classificado como um site de ótima curva de aprendizagem por seu fácil entendimento e navegabilidade que realmente facilita e entrega o proposto no quesito usabilidade e gerenciamento de vagas podendo ser implementado de forma eficaz como uma solução viável no cenário de fornecimento de vagas de emprego na região do Vale do Paraíba.
+### Projeto desenvolvido:
 
 
-> VIDEO DO PROJETO:
+- [Clique aqui para acessar o projeto!](https://github.com/TechForce-ADS/DispVag.git)
+- [Clique aqui para acessar o protótipo e vídeos do projeto!](https://github.com/TechForce-ADS/DispVag/tree/main/Prototipo)
+- [Clique aqui para acessar o vídeo do projeto!](https://github.com/TechForce-ADS/DispVag/tree/main/Projeto)
 
-<img src="https://github.com/TechForce-ADS/DispVag/blob/main/Projeto/Imagens_API/video3sprint3.gif" >
-
-
-## Tecnologias Utilizadas:
-
-> Para a realização deste projeto foram usadas as seguintes tecnologias:
-
-- HTML e CSS: Utilizados para a estruturação e estilização do site visando uma experiência visualmente agradável e de fácil entendimento;
-- Canvas: Para a criação de elementos gráficos interativos, enriquecendo a experiência do usuário;
-- Pacote Office: Utilizado para a organização da equipe, documentação e comunicação do projeto;
-- GitHub: Plataforma para a entrega, acompanhamento do professor (cliente) e colaboração do código-fonte;
-- Discord: Ferramenta de comunicação remota entre os integrantes do grupo;
-- Python e outras linguagens: Linguagens de programação essenciais para o desenvolvimento do backend e de funcionalidades específicas do sistema;
-- Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado para a codificação e depuração do código-fonte de forma eficiente;
-- SQL: Linguagem para a manipulação e consulta ao banco de dados no sistema;
+#### Tecnologias Utilizadas
+Como principal tecnologia usamos HTML Python e JavaScript.
+Tecnologias Utilizadas:
+- HTML - Bloco de construção básico porém necessário a visualização do conteúdo web
+- CSS - Estilização dos elementos do HTML
+- Python - Linguagem de programação usada no BackEnd
+- JavaScript - Linguagem de programação usada nas métricas
+- Canva - Usado para criação dos protótipos
+- Pacote Office - Gestão da equipe e funções
+- Github - Armazena e acesso ao projeto por pessoas externas 
+- VS Code - Editor para auxiliar na programação
+- SQL - Linguagem usada para criarmos o banco de dados para armazenar as vagas de emprego
+- Framework Boostrap - Facilitar na reutilização de componentes 
 
 ## Contribuição Pessoal:
 
@@ -101,6 +79,151 @@ Neste projeto eu pude ter o primeiro contato com a função de Desenvolvedor ten
 - Manutenção contínua do software, incluindo correção de bugs e implementação de novos recursos conforme necessário.
 
 A metodologia ágil e a divisão de funções permitiu a transição de responsabilidades dentro da equipe trazendo uma abordagem flexível e adaptável possibilitando a entrega de um produto final satisfatório e de acordo com as expectativas do cliente.
+
+
+
+## Em 2022-2
+### Parceiro Acadêmico
+
+TRACKCASH
+A TrackCash é uma empresa focada na gestão financeira projetada para ajudar empresas de diferentes tamanhos e setores para organizar suas finanças. Oferecendo uma solução de negócios (B2B) com intuito de conciliar vendas e pagamento de diversas plataformas de comércio, como e-commerce, marketplace e lojas físicas, oferecendo aos seus clientes um painel para que eles visualizar e gerenciar suas transações finaceiras de suas plataformas de vendas. 
+
+
+### Projeto
+No segundo semestre tinhamos que desenvolver um CRUD para empresa TrackCash para que eles pudessem atender a demanda de seus clientes que são vendedores. 
+Desenvolver um CRUD para que a empresa TrackCash possa atender a demanda dos seus clientes que são vendedores de lojas onlines e fisicas, para que assim possam realizar o processo de conciliação finaceira. 
+
+### Problema
+A problemática dada por nosso cliente, era a necessidade de uma aplicação onde o cliente desse autorização para a empresa ter acesso aos seus dados. 
+
+### Solução
+Como solução, criamos uma aplicação de fácil entendimento para que clientes deem autorização por meio de email/senha ou tokens para que os sistemas da TrackCash possam ter acesso a determinadas configurações como: apis e planilhas automatizadas, assim o sistema salvará as informações de usuários/senhas e tokens.
+
+### Projeto desenvolvido: 
+
+
+
+- [Clique aqui para acessar o projeto!](https://github.com/TechForce-ADS/TrackCash)
+- [Clique aqui para acessar o protótipo e vídeos do projeto!](https://github.com/TechForce-ADS/TrackCash/tree/main/sprints#1%C2%BA-sprint)
+
+#### Tecnologias Utilizadas
+Como principal tecnologia usamos HTML Python e JavaScript.
+Tecnologias Utilizadas:
+- JAVA - Linguagem de programação na qual o projeto foi programado
+- Java Swing - Conjunto de biblioteca e ferramentas do Java
+- NetBeans - Ambiente de desenvolvimento integrado 
+- MySQL - Banco de dados onde armazemos as informações como Token e senhas 
+- Canva - Usado para prototipação 
+- Pacote Office - Gestão de equipe e funções 
+- Git - Versionamento do código 
+- GitHub - Armazena e dá acesso ao projeto e documentação 
+- Discord - Ferramenta de comunicação entre a equipe
+- Slack - Ferramenta de comunicação entre Product Owner e cliente 
+
+
+#### Contribuições Pessoais
+Atuei na função de Desenvolvedor novamente, onde programei a parte  (Front-end e Back-end).
+
+- Programação - Desenvolvi as funções e para o funcionanemto do projeto usando Netbeans e Java. 
+- Tester - Realizei diversos testes para saber se o projeto estava funcionando de acordo com o planejado
+
+
+
+## Em 2023-1
+### Parceiro Acadêmico
+
+VISIONA - Tecnologia Espacial 
+A empresa foi fundada em 2012, como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras com foco na integração de sistemas espaciais e na oferta de serviços via satélite. 
+Fundada em 2012, a Visiona Tecnologia Espacial surge como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras. Seu foco reside na integração de sistemas espaciais e na oferta de serviços via satélite, direcionados tanto para os objetivos do Programa Espacial Brasileiro quanto para as demandas do mercado.
+
+
+
+### Projeto
+No terceiro semestre desenvolvemos um sistema de gerenciamento de usuários com autenticação e autorização para acesso de serviços oferecidos pela a Visiona, assim havendo permissões especifícas e dashboards com dados gerais do sistema. 
+
+
+### Problema
+O problema que o cliente possuia era a falta de um sistema de gerenciamento de usuários com autenticação e autorização das permissões necessárias para o uso de seus serviços, assim o sistema teria que permitir a adição, edição, exclusão e visualização dos usuários e gerar dashboards de determinados dados. 
+ 
+
+### Solução
+Como solução criamos uma interface de gerenciamento intuitivo seguindo os parâmetros dados pelo cliente. Podendo listar, adicionar, deletar, editar, atribuir permissões para os usuários. 
+
+### Projeto desenvolvido: 
+
+
+- [Clique aqui para acessar o projeto!](https://github.com/TechForce-ADS/Visiona)
+- [Clique aqui para acessar o protótipo e vídeos do projeto!](https://github.com/TechForce-ADS/Visiona/tree/main/Prototipo)
+
+#### Tecnologias Utilizadas
+Como principal tecnologia usamos Postgres, JavaScript e TypeScript.
+Tecnologias Utilizadas:
+- NodeJS - Ambiente de execução usando o JavaScript
+- JavaScript - Linguagem de programação usada no Front-end e Back-end 
+- React/TypeScript - Junção de uma biblioteca e uma linguagem de programação usada para compor a parte visual do meu projeto (Front-end)
+- Postgres - Banco de dados usado para armazenar as informações
+- Canva - Usado para a prototipação
+- Pacote Office - Gestão da equipe e documentação
+- GitHub (Repositório) - Armazena e acesso ao projeto por pessoas externas 
+- Slack - Comunicação do Product Owner com o cliente 
+- VS Code - Editor para auxiliar na programação
+
+
+
+#### Contribuições Pessoais
+Atuei na função de Desenvolvedor novamente, onde programei a parte  (Front-end e Back-end).
+
+- Programação - Desenvolvi as funções e para o funcionanemto do projeto usando Netbeans e Java. 
+- Tester - Realizei diversos testes para saber se o projeto estava funcionando de acordo com o planejado
+
+
+
+## Em 2023-2
+### Parceiro Acadêmico
+
+GRENNEAT - Limpeza Sustentável 
+A Grenneat é uma empresa focada na criação de produtos de limpeza sustentável(saneantes) com o foco da sustentabilidade e economia circular dos produtos e comercialização. 
+
+
+### Projeto
+No quarto semestre, desenvolvemos um sistema web com regras de negócio complexas, com foco na economia circular, para gerenciar a reciclagem de óleo vegetal usado. O sistema foi utilizado para preparação e configuração de ambientes de produção (deploy) e envolveu a criação de um Gestor de Crédito. Este gestor foi integrado a uma plataforma que permitirá a troca de créditos por produtos de limpeza sustentável na loja virtual da Grennet.
+
+### Problema
+O problema se dá por conta de apenas 2% do óleo vegetal ser reciclado no Brasil, e a maioria era descartada de forma inadequada, gerando impactos ambientais negativos. Apesar de existirem cooperativas e profissionais individuais que coletavam o óleo descartado em restaurantes, não havia um sistema eficaz para incentivar e gerenciar essa reciclagem de forma abrangente e eficiente. Além disso, os consumidores muitas vezes não tinham incentivo para adotar práticas sustentáveis de limpeza em suas casas.
+ 
+
+### Solução
+Desenvolvemos um projeto que tem como intuito de criar de uma plataforma para engajar todos os agentes da cadeia de descarte e reciclagem do óleo usado, incentivando a reciclagem por meio de um sistema de créditos. Os estabelecimentos cadastrados poderiam acumular créditos ao descartar o óleo vegetal usado, os quais poderiam ser trocados por produtos de limpeza sustentável na loja virtual da Grenneat. Isso criava um ciclo de economia circular, onde o óleo descartado era reciclado para produzir saneantes, que por sua vez eram adquiridos pelos próprios participantes do sistema, promovendo a sustentabilidade e fechando o ciclo de produção e consumo de forma ambientalmente consciente.
+
+### Projeto desenvolvido: 
+
+
+- [Clique aqui para acessar o projeto!](https://github.com/TechForce-ADS/Greenneat)
+
+- [Clique aqui para acessar o protótipo do projeto!](https://github.com/TechForce-ADS/Greenneat/blob/main/Prototipo.md)
+
+- [Clique aqui para acessar imagens do projeto!](https://github.com/TechForce-ADS/Greenneat/blob/main/Sprints.md)
+
+#### Tecnologias Utilizadas
+Como principal tecnologia usamos JavaScript, NodeJS e React Boostrap.
+Tecnologias Utilizadas:
+
+- React Bootstrap - Biblioteca (Front-end)
+- NodeJS - Ambiente de execução usando o JavaScript
+- JavaScript - Linguagem de programação usada no Front-end e Back-end 
+- MySQL - Banco de dados usado para armazenar as informações
+- Canva - Usado para a prototipação
+- Pacote Office - Gestão da equipe e documentação
+- GitHub (Repositório) - Armazena e acesso ao projeto por pessoas externas 
+- Slack - Comunicação do Product Owner com o cliente 
+- VS Code - Editor para auxiliar na programação
+
+
+#### Contribuições Pessoais
+Atuei na função de Desenvolvedor novamente, onde programei a parte (Front-end e Back-end).
+
+- Programação - Desenvolvi as funções e para o funcionanemto do projeto usando Netbeans e Java. 
+- Tester - Realizei diversos testes para saber se o projeto estava funcionando de acordo com o planejado
 
 
 ### Hard Skills
