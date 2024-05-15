@@ -2,7 +2,7 @@
 
 ## Sobre mim
 <p align="center">
-<img src ="(https://github.com/PedroSeraggi/Portfolio-TG/assets/102552390/ae95609e-c4a9-40f3-8716-518cd7fe7764" width="250" height="300" align-center>
+<img src ="https://github.com/PedroSeraggi/Portfolio-TG/assets/102552390/ae95609e-c4a9-40f3-8716-518cd7fe7764" width="250" height="300" align-center>
 
 Meu nome é Pedro Seraggi, tenho 19 anos e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
 
