@@ -2,11 +2,12 @@
 
 ## Sobre mim
 <p align="center">
-<!-- <img src ="https://github.com/PedroSeraggi/" width="250" height="300" align-center> -->
+
+
 Meu nome é Pedro Seraggi, tenho 19 anos e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
 
 Este portfólio apresenta projetos realizados durante o programa de Aprendizado por Projeto Integrador (API) da faculdade. O API é um projeto proposto pela instituição no qual os alunos se conectam a empresas reais para fornecer soluções para problemas enfrentados por elas.
-
+</p>
 Além disso, o projeto proporciona uma experiência prática e interativa, introduzindo-nos a conceitos fundamentais do mercado de trabalho, tais como:
 - Metodologia Ágil;
 - Divisão em sprints;
